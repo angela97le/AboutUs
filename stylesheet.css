@@ -1,0 +1,101 @@
+.about-us-headings{
+    font-weight:500;
+    font-size:28px !important;
+}
+.bio-images{
+    padding:auto 5%;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;    
+}
+/*.bio-images:hover{*/
+/*    cursor:pointer;*/
+/*}*/
+
+/*Bio Decriptions*/
+.bio-name{
+    color: #0f6773 !important;
+    margin: 9px 0px 9px 0px;
+    font-size:18px !important;
+    font-family: 'Oxygen', sans-serif!important;
+    font-weight:300;
+    padding-top:7px;
+    text-align: center;
+
+}
+.bio-title{
+    color: #0f6773 !important;
+    font-size: 12px !important;
+    font-weight: 600;
+    line-height: 1.4;
+    font-family: 'SF-Pro-Display',Roboto,Sans-Serif;
+    margin: 10px 0px;
+    text-align: center;
+
+}
+#karenDesc,
+#garyDesc,
+#gregDesc, 
+#ulrichDesc, 
+#brianDesc, 
+#debDesc, 
+#daveDesc, 
+#kyungjinDesc, 
+#gabriellaDesc, 
+#seanDesc,
+#jonDesc, 
+#claraDesc,
+#angelaDesc,
+#tifanyDesc,
+#bhumikaDesc,
+#shannonDesc,
+#maggieDesc,
+#jasonDesc{
+  width: 100%;
+  padding: 0 0 10px 0;
+  text-align: center;
+  background-color: white;
+  display:none;
+  font-size:16px;
+  line-height:1.4;
+  color:#323232;//here
+}
+.bio-col{
+    padding:9px !important;
+    text-align:center
+}
+.bio-col .fa-linkedin{
+    color: #0f6773;/*gray color #8499a8*/
+    margin-top:5px;
+}
+.about-us-headings{
+    margin:0 !important;
+}
+.about-btn{
+    font-family: 'Poppins', Poppins, 'Oxygen', sans-serif !important;
+       background: white;
+    border: 1px solid #8499a8;
+    box-sizing: border-box;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 12px;
+    line-height: 20px;
+    padding: 0 15px; //7, 11
+    position: relative;
+    text-align: center;
+    border-radius: 18px;
+    border-color:#888888;//#8499a8;
+    color: #888888;//#8499a8;
+    font-weight:500;
+}
+.about-btn:hover{
+    background: #0f6773;
+        color: white;
+        border-color:white;
+
+}
+.boardH1{
+    padding-bottom:30px;
+    padding-top: 50px;
+
+}
